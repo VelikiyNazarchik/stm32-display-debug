@@ -1,0 +1,2 @@
+../Core/Src/bobik/log.cpp:5:16:int _write(int, char*, int)	32	static
+../Core/Src/bobik/log.cpp:27:6:void log_init()	8	static

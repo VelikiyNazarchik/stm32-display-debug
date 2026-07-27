@@ -1,0 +1,4 @@
+../Core/Src/bobik/bobik.cpp:12:6:void bobik_start()	3
+../Core/Src/bobik/bobik.cpp:30:6:void oled_write_cmd(uint8_t)	1
+../Core/Src/bobik/bobik.cpp:35:6:void oled_init()	1
+../Core/Src/bobik/bobik.cpp:71:6:void oled_fill()	3
